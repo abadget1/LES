@@ -14,7 +14,32 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                                     </div>
                                     <div className="main-menu-ex  homepage10 homepage7 ">
                                         <ul>
-                                            <li className="mega-dropdawn"><Link href="#">Home <i className="fa-solid fa-angle-down" /></Link>
+                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Home</Link></li>
+                                            <li><Link href="/about" className="font-ks font-16 weight-500 color">About Us</Link></li>
+                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Our Services <span><i className="fa-solid fa-angle-down" /></span></Link>
+                                                <ul className="dropdown-padding">
+                                                    <li><Link href="/about" className="font-ks font-16 weight-500 color">Our
+                                                        Service <i className="fa-solid fa-angle-right" /></Link>
+                                                        <ul>
+                                                            <li><Link href="/servicev1" className="font-ks font-16 weight-500 color">Service V1</Link></li>
+                                                            <li><Link href="/servicev2" className="font-ks font-16 weight-500 color">Service V2</Link></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><Link href="/about" className="font-ks font-16 weight-500 color">Service
+                                                        Details <i className="fa-solid fa-angle-right" /></Link>
+                                                        <ul>
+                                                            <li><Link href="/serviceleft" className="font-ks font-16 weight-500 color">Service Details
+                                                                Left</Link></li>
+                                                            <li><Link href="/serviceright" className="font-ks font-16 weight-500 color">Service Details
+                                                                Right</Link></li>
+                                                            <li><Link href="/servicemiddle" className="font-ks font-16 weight-500 color">Single Service</Link>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>        
+                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Contact</Link></li>                                    
+                                            {/* <li className="mega-dropdawn"><Link href="#">Home <i className="fa-solid fa-angle-down" /></Link>
                                                 <ul className="mega-dropdawn-ul backgroudnone">
                                                     <div className="mega-menu-all">
                                                         <div className="row">
@@ -278,7 +303,7 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                                                     <li><Link href="/contact2" className="font-ks font-16 weight-500 color">Contact
                                                         2</Link></li>
                                                 </ul>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </div>
                                     <div className="contact-3 d-lg-block d-none">

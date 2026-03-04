@@ -32,8 +32,7 @@ export default function Client6() {
                                     </div>
                                     <Link href="/servicemiddle" className="font-lora font-20 lineh-20 weight-600 colorhp3 ts d-inline-block margin-b">Agreement Setup</Link>
                                     <p className="font-ks font-16 lineh-26 weight-500 color-p10 ts">
-                                        We establish escrow terms based on the signed agreement between all parties, outlining
-                                        <br /> payment conditions, timelines, and release requirements.</p>
+                                        We establish escrow terms based on the signed agreement between all parties, outlining payment conditions, timelines, and release requirements.</p>
                                 </div>
                             </div>
                             <div className="col-lg-3" data-aos="zoom-out" data-aos-duration={1200} data-aos-easing="linear">
@@ -50,7 +49,7 @@ export default function Client6() {
                                     <Link href="/servicemiddle" className="font-lora font-20 lineh-20 weight-600 colorhp3 ts d-inline-block margin-b">Funds Secured</Link>
                                     <p className="font-ks font-16 lineh-26 weight-500 color-p10 ts">
                                         The buyer deposits funds into a secure escrow account. We verify receipt
-                                        <br /> and notify all involved parties.</p>
+                                        and notify all involved parties.</p>
                                 </div>
                             </div>
                             <div className="col-lg-3" data-aos="zoom-in" data-aos-duration={1400} data-aos-easing="linear">
@@ -67,7 +66,7 @@ export default function Client6() {
                                     <Link href="/servicemiddle" className="font-lora font-20 lineh-20 weight-600 colorhp3 ts d-inline-block margin-b">
                                        Conditions Verified</Link>
                                     <p className="font-ks font-16 lineh-26 weight-500 color-p10 ts">
-                                        All contractual obligations—such as inspections, documentation, or<br />
+                                        All contractual obligations—such as inspections, documentation, or
                                          delivery milestones—are reviewed and confirmed.</p>
                                 </div>
                             </div>
@@ -85,7 +84,7 @@ export default function Client6() {
                                     <Link href="/servicemiddle" className="font-lora font-20 lineh-20 weight-600 colorhp3 ts d-inline-block margin-b">
                                     Funds Released</Link>
                                     <p className="font-ks font-16 lineh-26 weight-500 color-p10 ts">
-                                        Once all terms are satisfied, funds are securely disbursed to the<br />
+                                        Once all terms are satisfied, funds are securely disbursed to the
                                          appropriate party and the transaction is officially closed.</p>
                                 </div>
                             </div>

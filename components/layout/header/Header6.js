@@ -15,7 +15,37 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu }) {
                                     </div>
                                     <div className="main-menu-ex homepage3 homepage5 homepage6">
                                         <ul>
-                                            <li className="mega-dropdawn"><Link href="#" className="font-nunito">Home <i className="fa-solid fa-angle-down" /></Link>
+                                            <li><Link href="/#" className="font-nunito font-16 weight-600 color-1">Home</Link>
+                                            </li>
+                                            <li><Link href="/about" className="font-nunito font-16 weight-600 color-1">About Us</Link>
+                                            </li>
+                                            <li><Link href="#" className="font-nunito font-16 weight-600 color-ni">Our Services
+                                                <span><i className="fa-solid fa-angle-down" /></span></Link>
+                                                <ul className="dropdown-padding">
+                                                    <li><Link href="/about" className="font-nunito font-16 weight-500 color"> Our
+                                                        Service <i className="fa-solid fa-angle-right" /></Link>
+                                                        <ul>
+                                                            <li><Link href="/servicev1" className="font-nunito font-16 weight-500 color-ni">Service
+                                                                V1</Link></li>
+                                                            <li><Link href="/servicev2" className="font-nunito font-16 weight-500 color-ni">Service
+                                                                V2</Link></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><Link href="/about" className="font-nunito font-16 weight-500 color">Service Details <i className="fa-solid fa-angle-right" /></Link>
+                                                        <ul>
+                                                            <li><Link href="/serviceleft" className="font-nunito font-16 weight-500 color-ni">Service
+                                                                Details Left</Link></li>
+                                                            <li><Link href="/serviceright" className="font-nunito font-16 weight-500 color-ni">Service
+                                                                Details Right</Link></li>
+                                                            <li><Link href="/servicemiddle" className="font-nunito font-16 weight-500 color-ni">Single
+                                                                Service</Link></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li><Link href="/about" className="font-nunito font-16 weight-600 color-1">Contact</Link>
+                                            </li>
+                                            {/* <li className="mega-dropdawn"><Link href="#" className="font-nunito">Home <i className="fa-solid fa-angle-down" /></Link>
                                                 <ul className="mega-dropdawn-ul backgroudnone">
                                                     <div className="mega-menu-all">
                                                         <div className="row">
@@ -281,12 +311,18 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu }) {
                                                     <li><Link href="/contact1" className="font-nunito font-16 weight-500 color">Contact 1</Link></li>
                                                     <li><Link href="/contact2" className="font-nunito font-16 weight-500 color">Contact 2</Link></li>
                                                 </ul>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </div>
                                     <div className="contact-3 d-lg-block d-none">
                                         <div className="all-3-btn theme-btn1">
-                                            <div className="first-name-input header3">
+                                             <div className="contact-3 d-lg-block d-none">
+                                        <div className="shecdule-btn1">
+                                            <Link href="/contact1" className="font-ks font-16 lineh-16 color weight-700 solutions10">Book an
+                                                Appointment <span><img src="/assets/images/icons/arrowben.svg" alt="" /></span></Link>
+                                        </div>
+                                    </div>
+                                            {/* <div className="first-name-input header3">
                                                 <select name="country" id="country" className="country-area">
                                                     <option value={1} data-display="Eng" className="font-nunito weight-600">Eng
                                                     </option>
@@ -296,15 +332,16 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu }) {
                                                     <option value>Tamil</option>
                                                     <option value>Turkey</option>
                                                 </select>
-                                            </div>
-                                            <div className="theme-btn-3">
+                                            </div> */}
+                                            {/* <div className="theme-btn-3">
                                                 <img src="/assets/images/icons/phoneheader1.png" alt="" className="imgicon" />
                                                 <div className="phonr6-area">
                                                     <p className="font-16 lineh-16 color-h5 weight-400 font-nunito margin-b8">Free
                                                         Consultation</p>
                                                     <Link href="/tel:123-456-7890" className="font-nunito font-18 lineh-18 weight-600 color-h5">123-456-7890</Link>
                                                 </div>
-                                            </div>
+                                            </div> */}
+                                            
                                         </div>
                                     </div>
                                 </div>
