@@ -12,8 +12,8 @@ export default function Service14() {
                         <div className="col-lg-6 m-auto">
                             <div className="servicebene10-header text-center margin-b60">
                                 <span className="font-16 lineh-16 weight-600 color-h10 about10span d-inline-block margin-b20">Our
-                                    Service</span>
-                                <h1 className="font-44 lineh-54 weight-600 colorhp3 font-lora margin-b24s">Benefits That Escrow Services Provide</h1>
+                                    Benefits</span>
+                                <h1 className="font-44 lineh-54 weight-600 colorhp3 font-lora margin-b24s">Benefits Our Services Provide</h1>
                             </div>
                         </div>
                     </div>

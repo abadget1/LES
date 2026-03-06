@@ -26,7 +26,7 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group7.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Real Estate Escrow</Link>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">U.S. Tax Refund Check Processing</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts ">
                                     We coordinate secure property closings, ensuring accurate documentation, fund protection, and regulatory compliance throughout the transaction.
                                 </p>
@@ -42,7 +42,7 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group8.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Business Transaction Escrow</Link>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Check Receiving & Secure Deposit</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">
                                     Protect acquisitions, mergers, and partnership agreements with structured fund management and milestone-based releases.
                                 </p>
@@ -58,8 +58,8 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group9.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Online & High-Value Sales Escrow</Link>
-                                <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Secure large digital, automotive, or luxury item transactions with verified payments and controlled release terms.</p>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">International Wire Transfers</Link>
+                                <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Funds are wired directly to your designated international bank account after clearance.</p>
                                 <Link href="/servicemiddle" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
                                     <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
@@ -72,8 +72,8 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group10.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Construction & Milestone Escrow</Link>
-                                <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Funds are released in stages based on verified project milestones, reducing risk for contractors and clients alike.</p>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Secure Fund Handling</Link>
+                                <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Professional management of funds with security and compliance measures throughout the transaction.</p>
                                 <Link href="/servicemiddle" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
                                     <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
@@ -86,9 +86,9 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group11.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Legal Settlement Escrow</Link>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Cross-Border Payment Facilitation</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">
-                                    We manage settlement funds with precision and discretion, ensuring proper distribution according to agreed terms.
+                                    Simplified financial transactions between the United States and international banking systems.
                                 </p>
                                 <Link href="/servicemiddle" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
                                     <span className="ts"><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
@@ -102,7 +102,7 @@ export default function Service13() {
                                         <img src="/assets/images/icons/group12.svg" alt="" className="ts" />
                                     </div>
                                 </div>
-                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Custom Contract Escrow</Link>
+                                <Link href="/servicemiddle" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Transaction Support & Processing Assistance</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Need a specialized structure? We design escrow agreements tailored to unique transaction requirements and risk profiles.</p>
                                 <Link href="/servicemiddle" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
                                     <span className="ts"><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>

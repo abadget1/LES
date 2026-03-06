@@ -11,12 +11,12 @@ export default function Welcome6() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="header5-textareah5" data-aos="fade-right" data-aos-duration={1000}>
-                                <span className="trusts font-16 lineh-16 font-nunito weight-600 color-h5 d-inline-block">Trusted Escrow Services On Every Agreement</span>
-                                <h1 className="font-lora font-60 lineh-64 weight-600 colorwel margin-b20" data-aos="fade-right" data-aos-duration={1200}>Your Reliable Partner for Safe Transactions</h1>
+                                <span className="trusts font-16 lineh-16 font-nunito weight-600 color-h5 d-inline-block">Secure Refund Processing for Global Investors</span>
+                                <h1 className="font-lora font-60 lineh-64 weight-600 colorwel margin-b20" data-aos="fade-right" data-aos-duration={1200}>Your Trusted Financial Solutions Partner</h1>
                                 <p className="font-nunito font-16 lineh-26 weight-500 color-nuni ">
-                                    We provide secure, transparent escrow services designed to protect buyers <br />
-                                    and sellers at every stage. Our team ensures funds are handled with<br />
-                                     precision, compliance, and complete accountability from start to finish.</p>
+                                    Welcome to Lanois Escrow Service, where we make receiving your U.S. tax refunds
+simple, secure, and stress-free. Tailored to meet the needs of non-U.S. investors, our
+trusted service ensures your refunds are delivered seamlessly and without hassle.</p>
                                 <div className="h0mapagesixbtnall" data-aos="fade-up" data-aos-duration={1000}>
                                     <Link href="/contact1" className="font-nunito font-16 lineh-16 weight-700 color d-inline-block home5btn7 ts">Free
                                                 Consultation</Link>
