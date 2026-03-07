@@ -85,7 +85,7 @@ export default function Footer10() {
                             <div className="border7" />
                             <div className="copyright6 text-center">
                                 <p className="font-ks lineh-26 weight-500 font-16 color-p10">© Copyright {new Date().getFullYear()} Consalt Law
-                                    Consultant, Designed by Fleexstudio</p>
+                                    Consultant, Designed by ABCode</p>
                             </div>
                         </div>
                     </div>

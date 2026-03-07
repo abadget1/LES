@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About US">
+            <Layout headerStyle={6} footerStyle={1} breadcrumbTitle="About US">
                 <div>
                     {/*===== ABOUT STARTS=======*/}
                     <div className="about3-section-area section-padding5">
