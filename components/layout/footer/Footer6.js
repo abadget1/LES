@@ -9,7 +9,7 @@ export default function Footer6() {
                         <div className="col-lg-12">
                             <div className="footer4-all-area footer6 section-padding15">
                                 <div className="row">
-                                    <div className="col-lg-3">
+                                    <div className="col-lg-4 col-md-6">
                                         <div className="footer-3logo">
                                             <img src="/assets/images/logo/logo9.png" alt="" />
                                             <p className="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24">Include any
@@ -27,26 +27,31 @@ export default function Footer6() {
                                     </div>
                                     <div className="col-lg-2 col-md-6">
                                         <div className="about-3-links align-items-center">
-                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">About Link</h1>
+                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Quick Links</h1>
                                             <ul>
-                                                <li><Link href="/blog2" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t32 d-inline-block">Our
-                                                    Blog</Link></li>
                                                 <li><Link href="/about" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">About
                                                     Us</Link></li>
-                                                <li><Link href="/servicev1" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">
-                                                    Practice Areas</Link></li>
-                                                <li><Link href="/casestudy1" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Case
-                                                    Studies</Link></li>
-                                                <li><Link href="/testimonials" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Testimonials</Link>
-                                                </li>
+                                                <li><Link href="/servicev2" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">
+                                                    Services</Link></li>
                                                 <li><Link href="/contact1" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Contact
                                                     Us</Link></li>
                                             </ul>
                                         </div>
                                     </div>
+                                    <div className="col-lg-2 col-md-6">
+                                        <div className="about-3-links align-items-center">
+                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Legal</h1>
+                                            <ul>
+                                                <li><Link href="/contact1" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Privacy Policy</Link></li>
+                                                <li><Link href="/testimonials" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Terms & Conditions</Link></li>
+                                                <li><Link href="/casestudy1" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">FAQ</Link></li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                     <div className="col-lg-3 col-md-6">
                                         <div className="contcat4-footer">
-                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Get in touch</h1>
+                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Get In Touch
+                                            </h1>
                                             <div className="location-icon4 margin-t32">
                                                 <div className="image5">
                                                     <img src="/assets/images/icons/email5.png" alt="" />
@@ -68,21 +73,7 @@ export default function Footer6() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-lg-4">
-                                        <div className="cta-contact6">
-                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Subscribe Our Newsletter
-                                            </h1>
-                                            <form className="margin-t32">
-                                                <div className="cta5-form">
-                                                    <input type="text" placeholder="Enter Your email" />
-                                                    <div className="buttnocontact1">
-                                                        <button type="Submit" className="font-nunito font-1 lineh-16 weight-700 color contactbtn6">Subscribe
-                                                            Now</button>
-                                                    </div>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
                             <div className="border7" />

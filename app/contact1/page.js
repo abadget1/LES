@@ -1,5 +1,7 @@
 'use client'
 import Layout from "@/components/layout/Layout"
+import Contact5 from "@/components/sections/Contact5"
+import Cta10 from "@/components/sections/Cta10"
 import Link from "next/link"
 import { useState } from 'react'
 export default function Home() {
@@ -23,9 +25,10 @@ export default function Home() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact Us">
+            <Layout headerStyle={10} footerStyle={6} breadcrumbTitle="Contact Us">
                 <div>
-                    <div className="cotactinner-section-area section-padding5">
+                    <Contact5/>
+                    {/* <div className="cotactinner-section-area section-padding5">
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
@@ -106,7 +109,7 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/*===== CONTACT  END=======*/}
                     {/*===== FAQ STARTS=======*/}
                     <div className="faq-section-area section-padding5">
@@ -267,7 +270,8 @@ export default function Home() {
                     </div>
                     {/*===== FAQ END=======*/}
                     {/*===== CTA STARST=======*/}
-                    <div className="cta5-section-area section-padding4">
+                    <Cta10/>
+                    {/* <div className="cta5-section-area section-padding4">
                         <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors72" />
                         <div className="container">
                             <div className="row align-items-center">
@@ -292,7 +296,7 @@ export default function Home() {
                             </div>
                         </div>
                         <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors73" />
-                    </div>
+                    </div> */}
                 </div>
 
             </Layout>

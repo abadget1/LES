@@ -10,22 +10,23 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="col-12">
                                 <div className="header-elements">
                                     <div className="site-logo">
-                                        <Link href="/index1"><img src="/assets/images/logo/logo15.png" alt="" /></Link>
+                                        <Link href="/"><img src="/assets/images/logo/logo15.png" alt="" /></Link>
                                     </div>
                                     <div className="main-menu-ex  homepage10 homepage7 ">
                                         <ul>
-                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Home</Link></li>
+                                            <li><Link href="/" className="font-ks font-16 weight-500 color">Home</Link></li>
                                             <li><Link href="/about" className="font-ks font-16 weight-500 color">About Us</Link></li>
-                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Our Services <span><i className="fa-solid fa-angle-down" /></span></Link>
+                                            <li><Link href="/servicev2" className="font-ks font-16 weight-500 color">Services</Link></li>
+                                            {/* <li><Link href="#" className="font-ks font-16 weight-500 color">Our Services <span><i className="fa-solid fa-angle-down" /></span></Link>
                                                 <ul className="dropdown-padding">
-                                                    <li><Link href="/about" className="font-ks font-16 weight-500 color">Our
+                                                    <li><Link href="#" className="font-ks font-16 weight-500 color">Our
                                                         Service <i className="fa-solid fa-angle-right" /></Link>
                                                         <ul>
                                                             <li><Link href="/servicev1" className="font-ks font-16 weight-500 color">Service V1</Link></li>
                                                             <li><Link href="/servicev2" className="font-ks font-16 weight-500 color">Service V2</Link></li>
                                                         </ul>
                                                     </li>
-                                                    <li><Link href="/about" className="font-ks font-16 weight-500 color">Service
+                                                    <li><Link href="#" className="font-ks font-16 weight-500 color">Service
                                                         Details <i className="fa-solid fa-angle-right" /></Link>
                                                         <ul>
                                                             <li><Link href="/serviceleft" className="font-ks font-16 weight-500 color">Service Details
@@ -37,8 +38,8 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                                                         </ul>
                                                     </li>
                                                 </ul>
-                                            </li>        
-                                            <li><Link href="#" className="font-ks font-16 weight-500 color">Contact</Link></li>                                    
+                                            </li>         */}
+                                            <li><Link href="/contact1" className="font-ks font-16 weight-500 color">Contact</Link></li>                                    
                                             {/* <li className="mega-dropdawn"><Link href="#">Home <i className="fa-solid fa-angle-down" /></Link>
                                                 <ul className="mega-dropdawn-ul backgroudnone">
                                                     <div className="mega-menu-all">

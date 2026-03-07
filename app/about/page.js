@@ -2,6 +2,12 @@
 
 import CounterUp from "@/components/elements/CounterUp";
 import Layout from "@/components/layout/Layout";
+import Cta1 from "@/components/sections/Cta1";
+import Cta10 from "@/components/sections/Cta10";
+import Cta2 from "@/components/sections/Cta2";
+import Cta3 from "@/components/sections/Cta3";
+import Cta4 from "@/components/sections/Cta4";
+import Cta6 from "@/components/sections/Cta6";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -11,7 +17,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={6} footerStyle={10} breadcrumbTitle="About Us">
+            <Layout headerStyle={10} footerStyle={6} breadcrumbTitle="About Us">
                 <div>
                     {/*===== VISSION STARTS=======*/}
                     <div className="vission-section-area section-padding5">
@@ -124,8 +130,9 @@ export default function Home() {
                     </div>
 
                     {/* CTA SECTION */}
+                    <Cta10/>
 
-                    <div className="cta5-section-area section-padding4">
+                    {/* <div className="cta5-section-area section-padding4">
                         <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors72" />
 
                         <div className="container">
@@ -175,7 +182,7 @@ export default function Home() {
                         </div>
 
                         <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors73" />
-                    </div>
+                    </div> */}
 
                 </div>
             </Layout>
