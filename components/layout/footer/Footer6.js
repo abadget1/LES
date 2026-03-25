@@ -12,9 +12,7 @@ export default function Footer6() {
                                     <div className="col-lg-4 col-md-6">
                                         <div className="footer-3logo">
                                             <img src="/assets/images/logo/logo9.png" alt="" />
-                                            <p className="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24">Include any
-                                                additional information that may be relevant or helpful for visitors, such as
-                                                FAQs, pricing options, or service packages. Provide contact details.</p>
+                                            <p className="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24">At Lanois Escrow Service, our mission is to deliver trust, security, and peace of mind in every transaction. We are dedicated to providing investors with a seamless, and reliable solution for managing their U.S. tax refunds—because your confidence is our highest priority.</p>
                                         </div>
                                         {/* <div className="social3-links-area list5area">
                                             <ul>
@@ -63,7 +61,7 @@ export default function Footer6() {
                                                     <img src="/assets/images/icons/location4.svg" alt="" />
                                                 </div>
                                                 <Link href="#" className="font-nunito font-16 lineh-24 weight-600 color-nuni">
-                                                3255 Lawrenceville Suwanee Road <br /> Suite P, PMB 1040 <br /> Suwanee, GA 30024</Link>
+                                                3255 Lawrenceville Suwanee Rd <br /> Suite P, PMB 1040 <br /> Suwanee, GA 30024</Link>
                                             </div>
                                             <div className="location-icon4 margin-t">
                                                 <div className="image5">

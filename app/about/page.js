@@ -19,7 +19,7 @@ export default function Home() {
         <>
             <Layout headerStyle={10} footerStyle={6} breadcrumbTitle="About Us">
                 <div>
-                    {/*===== VISSION STARTS=======*/}
+                    {/*===== VISION STARTS=======*/}
                     <div className="vission-section-area section-padding5">
                         <img src="/assets/images/elementor/elementor23.png" alt="" className="elementor24" />
                         <div className="container">
@@ -31,7 +31,7 @@ export default function Home() {
                                         <div className="border7 margin-b20" />
                                         
                                         <div className="nav-section-area">
-                                            <ul className="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                            {/* <ul className="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                                 <li className="nav-item" role="presentation">
                                                     <button className={`nav-link nav-btn1 ${activeTab === "experience" ? "active" : ""}`} onClick={() => setActiveTab("experience")} id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
                                                         Background
@@ -39,7 +39,7 @@ export default function Home() {
                                                 </li>
                                                 <li className="nav-item" role="presentation">
                                                     <button className={`nav-link nav-btn1 ${activeTab === "service" ? "active" : ""}`} onClick={() => setActiveTab("service")} id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">
-                                                        Services
+                                                        My Services
                                                     </button>
                                                 </li>
                                                 <li className="nav-item" role="presentation">
@@ -47,7 +47,7 @@ export default function Home() {
                                                         Why Us?
                                                     </button>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
 
                                             {/* TAB CONTENT */}
 
@@ -87,25 +87,6 @@ export default function Home() {
                                                     </div>
                                                 )}
 
-                                                {activeTab === "why" && (
-                                                    <div className="tab-pane fade show active">
-
-                                                        <p className="font-ks font-16 weight-500 lineh-26 margin-b20 color-30">
-                                                            <span className="weight-700 color-29">Personalized Approach:</span>
-                                                            We understand that every case is unique. That's why we take the time
-                                                            to listen to your concerns and tailor our services to your specific
-                                                            situation.
-                                                        </p>
-
-                                                        <p className="font-ks font-16 weight-500 lineh-26 color-30">
-                                                            <span className="weight-700 color-29">Client-Centric:</span> Your
-                                                            satisfaction is our priority. We maintain open communication and
-                                                            keep you informed throughout the process.
-                                                        </p>
-
-                                                    </div>
-                                                )}
-
                                             </div>
 
 
@@ -130,60 +111,7 @@ export default function Home() {
                     </div>
 
                     {/* CTA SECTION */}
-                    <Cta10/>
-
-                    {/* <div className="cta5-section-area section-padding4">
-                        <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors72" />
-
-                        <div className="container">
-                            <div className="row align-items-center">
-
-                                <div className="col-lg-6">
-                                    <div className="cta5-auhtor6-area">
-
-                                        <h1 className="font-lora font-48 lineh-52 color weight-600 margin-b text-capitalize">
-                                            Get expert Law advice on criminal strategies
-                                        </h1>
-
-                                        <p className="font-ks font-16 lineh-26 weight-500 color-21">
-                                            We believe that informed clients make better Law decisions.
-                                            As part of our service, we'll provide educational resources
-                                            and workshops to help.
-                                        </p>
-
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-2" />
-
-                                <div className="col-lg-4">
-
-                                    <div className="cta5-btn5-sexction">
-
-                                        <Link href="/contact1" className="theme6-btn6 bakgrnd5 font-ks lineh-16 weight-700 color font-16">
-                                            Get Law Advice
-                                            <span>
-                                                <i className="fa-solid fa-arrow-right" />
-                                            </span>
-                                        </Link>
-
-                                        <Link href="/contact2" className="theme6-btn6 backgrnd6 font-ks lineh-16 weight-700 color-29 font-16">
-                                            Contact Us
-                                            <span>
-                                                <i className="fa-solid fa-arrow-right" />
-                                            </span>
-                                        </Link>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors73" />
-                    </div> */}
-
+                    {/* <Cta10/> */}
                 </div>
             </Layout>
         </>

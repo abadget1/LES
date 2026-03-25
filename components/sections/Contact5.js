@@ -81,7 +81,7 @@ export default function Contact5() {
                                                 <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Contact
                                                     us</h1>
                                                 <Link href="#" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">
-                                                3255 Lawrenceville Suwanee Rd
+                                                3255 Lawrenceville Suwanee Rd<br/>
                                                 Suite P, PMB 1040 <br/>
                                                 Suwanee, GA 30024-6599
                                                 </Link>

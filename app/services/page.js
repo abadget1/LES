@@ -13,14 +13,14 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-12 m-auto">
                                     <div className="servicev1-textarea margin-b60 text-center">
-                                        <h1 className="font-16 font-lora weight-600 color-29 lineh-32">
+                                        <h3 className="font-16 font-lora weight-600 color-29 lineh-32">
                                             We make it easy for non-U.S. investors to access funds from U.S. tax refund paper checks. For a flat, transparent fee, we receive and securely deposit your checks, then wire the proceeds to your designated bank account. Our streamlined service removes the need for a U.S. bank account and reduces high bank fees and delays. Fast, secure, and hassle-free—so you can access your money with confidence.
-                                        </h1>
+                                        </h3>
                                     </div>
                                 </div>
                             </div>
                             <div className="row">
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
                                             <div className="col-lg-6 ">
@@ -30,14 +30,14 @@ export default function Home() {
                                                 </div>
                                             </div>
                                             <div className="col-lg-6">
-                                                <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img1.png" alt="" />
+                                                <div className="service3-imag1 img">
+                                                    <img src="/assets/images/sectionimg/services-img.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
                                             <div className="col-lg-6 ">
@@ -48,13 +48,13 @@ export default function Home() {
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img2.png" alt="" />
+                                                    <img src="/assets/images/sectionimg/services-img2.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
                                             <div className="col-lg-6 ">
@@ -66,13 +66,13 @@ export default function Home() {
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img3.png" alt="" />
+                                                    <img src="/assets/images/sectionimg/services-img3.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
                                             <div className="col-lg-6 ">
@@ -84,13 +84,13 @@ export default function Home() {
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img4.png" alt="" />
+                                                    <img src="/assets/images/sectionimg/services-img4.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
                                             <div className="col-lg-6 ">
@@ -102,16 +102,16 @@ export default function Home() {
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img5.png" alt="" />
+                                                    <img src="/assets/images/sectionimg/services-img5.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="service3-boxarea margin-b30 bgservice2">
                                         <div className="row">
-                                            <div className="col-lg-6 ">
+                                            <div className="col-lg-6 col-md-12">
                                                 <div className="service3-text2">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">Transaction Support & Processing Assistance</h1>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Need a specialized structure? We design escrow agreements tailored to unique transaction requirements and risk profiles.</p>
@@ -119,7 +119,7 @@ export default function Home() {
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="service3-imag1">
-                                                    <img src="/assets/images/sectionimg/servicev1img6.png" alt="" />
+                                                    <img src="/assets/images/sectionimg/services-img6.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
