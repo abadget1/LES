@@ -18,7 +18,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={2} footerStyle={2}>
+            <Layout headerStyle={10} footerStyle={2}>
                 <Welcome2 />
                 <About2 />
                 <Service2 />

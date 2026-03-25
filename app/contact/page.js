@@ -112,7 +112,7 @@ export default function Home() {
                     </div> */}
                     {/*===== CONTACT  END=======*/}
                     {/*===== FAQ STARTS=======*/}
-                    <div className="faq-section-area section-padding5">
+                    {/* <div className="faq-section-area section-padding5">
                         <img src="/assets/images/elementor/elementor23.png" alt="" className="elementor24" />
                         <div className="container">
                             <div className="row">
@@ -267,10 +267,10 @@ export default function Home() {
                             </div>
                         </div>
                         <img src="/assets/images/elementor/elementor23.png" alt="" className="elementor25" />
-                    </div>
+                    </div> */}
                     {/*===== FAQ END=======*/}
                     {/*===== CTA STARST=======*/}
-                    <Cta10/>
+                    {/* <Cta10/> */}
                     {/* <div className="cta5-section-area section-padding4">
                         <img src="/assets/images/elementor/elementor72.png" alt="" className="elementors72" />
                         <div className="container">

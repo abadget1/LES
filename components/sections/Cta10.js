@@ -8,7 +8,7 @@ export default function Cta10() {
             <div className="cta10-section-area section-padding4">
                 <div className="container">
                     <div className="row align-items-center">
-                        <div className="col-lg-6">
+                        <div className="col-lg-8">
                             <div className="cta10-header">
                                 <h1 className="font-44 font-lora lineh-52 weight-600 color margin-b">Get expert advice on consult
                                     investment to strategies.</h1>
@@ -18,10 +18,8 @@ export default function Cta10() {
                             </div>
                         </div>
                         <div className="col-lg-1" />
-                        <div className="col-lg-5">
-                            <div className="cta10-btnarea">
-                                <Link href="/contact1" className="font-ks font-16 lineh-16 color weight-700 solutions11">Schedule
-                                    an Apointment <span><img src="/assets/images/icons/arrowgreen.svg" alt="" /></span></Link>
+                        <div className="col-lg-3">
+                            <div className="cta10-btnarea">                                
                                 <Link href="/contact1" className="font-ks font-16 lineh-16 color-h10 weight-700 solutions12">Contact Us <span><img src="/assets/images/icons/arrowgreen.svg" alt="" /></span></Link>
                             </div>
                         </div>

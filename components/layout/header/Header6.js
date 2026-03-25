@@ -19,9 +19,9 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu }) {
                                             </li>
                                             <li><Link href="/about" className="font-nunito font-16 weight-600 color-1">About Us</Link>
                                             </li>
-                                            <li><Link href="/servicev2" className="font-ks font-16 weight-500 color">Services</Link></li>
+                                            <li><Link href="/services" className="font-ks font-16 weight-500 color">Services</Link></li>
 
-                                            <li><Link href="/contact1" className="font-nunito font-16 weight-600 color-1">Contact</Link>
+                                            <li><Link href="/contact" className="font-nunito font-16 weight-600 color-1">Contact</Link>
                                             </li>
 
                                         </ul>

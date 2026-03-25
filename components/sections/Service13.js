@@ -17,6 +17,7 @@ export default function Service13() {
                             </div>
                         </div>
                     </div>
+
                     <div className="row">
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={800} data-aos-easing="linear">
                             <div className="service10-boxarea text-center">
@@ -34,6 +35,7 @@ export default function Service13() {
                                     <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
+                        
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1000} data-aos-easing="linear">
                             <div className="service10-boxarea text-center">
                                 <div className="welcome-ellipsbox ts">
