@@ -66,7 +66,7 @@ export default function Contact5() {
                         </div>
                         <div className="col-lg-6" data-aos="zoom-in" data-aos-duration={1200}>
                             <div className="contactimages6">
-                                <img src="/assets/images/sectionimg/contact2img.png" alt="" />
+                                <img src="/assets/images/sectionimg/contact5-img.jpg" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-12">
@@ -80,8 +80,11 @@ export default function Contact5() {
                                             <div className="icons6list">
                                                 <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Contact
                                                     us</h1>
-                                                <Link href="#" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">8708
-                                                    Technology Forest Pl Suite 125 -G, The Woodlands, TX 77381</Link>
+                                                <Link href="#" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">
+                                                3255 Lawrenceville Suwanee Rd
+                                                Suite P, PMB 1040 <br/>
+                                                Suwanee, GA 30024-6599
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -91,11 +94,9 @@ export default function Contact5() {
                                                 <img src="/assets/images/icons/phone10.svg" alt="" className="ts" />
                                             </div>
                                             <div className="icons6list">
-                                                <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Call or
-                                                    text</h1>
-                                                <Link href="/tel:123-456-7890" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">123-456-7890</Link>
+                                                <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Call Us</h1>
+                                                <Link href="/tel:770-883-3721" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">(770)-883-3721</Link>
                                                 <br />
-                                                <Link href="/tel:123-456-7890" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">123-456-7890</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -105,11 +106,9 @@ export default function Contact5() {
                                                 <img src="/assets/images/icons/email8.svg" alt="" className="ts" />
                                             </div>
                                             <div className="icons6list">
-                                                <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Email us
-                                                    today</h1>
-                                                <Link href="/mailto:info@taxvice.com" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">info@taxvice.com</Link>
+                                                <h1 className="font-20 weight-600 colorwel lineh-20 font-lora margin-b ts">Email Us</h1>
+                                                <Link href="/mailto:info@lanoisescrowservice.com" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">info@lanoisescrowservice.com</Link>
                                                 <br />
-                                                <Link href="/mailto:Consult@gmail.com" className="font-nunito font-16 lineh-26 weight-500 color-nuni ts">Consult@gmail.com</Link>
                                             </div>
                                         </div>
                                     </div>

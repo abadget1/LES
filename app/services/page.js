@@ -6,8 +6,7 @@ export default function Home() {
 
     return (
         <>
-
-            <Layout headerStyle={10} footerStyle={6} breadcrumbTitle="Our Services v2">
+            <Layout headerStyle={10} footerStyle={6} breadcrumbTitle="Our Services">
                 <div>
                     <div className="servicev1-section-area section-padding5">
                         <div className="container">
@@ -26,9 +25,7 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">U.S. Tax Refund Check Processing</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">We coordinate secure property closings, ensuring accurate documentation, fund protection, and regulatory compliance throughout the transaction.</p>
                                                 </div>
                                             </div>
@@ -45,9 +42,7 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">Check Receiving & Secure Deposit</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Protect acquisitions, mergers, and partnership agreements with structured fund management and milestone-based releases.</p>
                                                 </div>
                                             </div>
@@ -64,11 +59,9 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">International Wire Transfers</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Funds are wired directly to your designated international bank account after clearance.</p>
-
+                                                    <br/>
                                                 </div>
                                             </div>
                                             <div className="col-lg-6">
@@ -84,9 +77,7 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">Secure Fund Handling</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Professional management of funds with security and compliance measures throughout the transaction.</p>
                                                     <br/>
                                                 </div>
@@ -104,10 +95,9 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">Cross-Border Payment Facilitation</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Simplified financial transactions between the United States and international banking systems.</p>
+                                                    <br/>
                                                     </div>
                                             </div>
                                             <div className="col-lg-6">
@@ -123,9 +113,7 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-6 ">
                                                 <div className="service3-text2">
-                                                    <Link href="/servicemiddle">
                                                         <h1 className="font-lora font-22 lineh-24 color-29 weight-600 margin-b">Transaction Support & Processing Assistance</h1>
-                                                    </Link>
                                                     <p className="font-ks font-16 lineh-26 weight-500 color-30">Need a specialized structure? We design escrow agreements tailored to unique transaction requirements and risk profiles.</p>
                                                 </div>
                                             </div>

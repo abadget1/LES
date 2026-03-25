@@ -15,8 +15,8 @@ export default function Welcome6() {
                                 <h1 className="font-lora font-60 lineh-64 weight-600 colorwel margin-b20" data-aos="fade-right" data-aos-duration={1200}>Your Trusted Financial Solutions Partner</h1>
                                 <p className="font-nunito font-16 lineh-26 weight-500 color-nuni ">
                                     Welcome to Lanois Escrow Service, where we make receiving your U.S. tax refunds
-simple, secure, and stress-free. Tailored to meet the needs of non-U.S. investors, our
-trusted service ensures your refunds are delivered seamlessly and without hassle.</p>
+                                    simple, secure, and stress-free. Tailored to meet the needs of non-U.S. investors, our
+                                    trusted service ensures your refunds are delivered seamlessly and without hassle.</p>
                                 <div className="h0mapagesixbtnall" data-aos="fade-up" data-aos-duration={1000}>
                                     <Link href="/contact1" className="font-nunito font-16 lineh-16 weight-700 color d-inline-block home5btn7 ts">Free
                                                 Consultation</Link>

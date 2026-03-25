@@ -10,14 +10,18 @@ export default function Welcome10() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="header10-textarea" data-aos="zoom-out" data-aos-duration={1000}>
-                                <span className="font-ks lineh-16 weight-500 color aboutspan font-16 d-inline-block margin-b24">Insurance
-                                    Consulting Services</span>
-                                <h1 className="font-lora font-48 lineh-54 weight-600 color margin-b24" data-aos="fade-right" data-aos-duration={1000}>Proven Insurance Strategies Success</h1>
-                                <p className="font-ks font-16 weight-500 color opacity2 lineh-26">With years of experience and a
-                                    deep understanding of <br /> various insurance sectors, including health, property.</p>
+                                <span className="font-ks lineh-16 weight-500 color aboutspan font-16 d-inline-block margin-b24">
+                                    Secure Refund Processing for Global Investors
+                                </span>
+                                <h1 className="font-lora font-48 lineh-54 weight-600 color margin-b24" data-aos="fade-right" data-aos-duration={1000}>Your Trusted Financial Solutions Partner</h1>
+                                <p className="font-ks font-16 weight-500 color opacity2 lineh-26">
+                                    Welcome to Lanois Escrow Service, where we make receiving your U.S. tax refunds
+                                    simple, secure, and stress-free. Tailored to meet the needs of non-U.S. investors, our
+                                    trusted service ensures your refunds are delivered seamlessly and without hassle.
+                                    </p>    
                                 <div className="div" data-aos="fade-up" data-aos-duration={1200}>
-                                    <Link href="/contact1" className="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">Explore
-                                        Your Insurance <span><img src="/assets/images/icons/arrowben.svg" alt="" className="ts" /></span></Link>
+                                    <Link href="/contact" className="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">
+                                        Contact Us<span><img src="/assets/images/icons/arrowben.svg" alt="" className="ts" /></span></Link>
                                 </div>
                             </div>
                         </div>
