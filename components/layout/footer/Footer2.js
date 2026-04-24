@@ -12,7 +12,7 @@ export default function Footer2() {
                                 <div className="row">
                                     <div className="col-lg-4 col-md-6">
                                         <div className="footer-logo2">
-                                            <img src="/assets/images/logo/logo4.png" alt="" />
+                                            <img src="/assets/images/logo/logo15.png" alt="" />
                                             <p className="font-16 lineh-26 color weight-400 font-outfit margin-b24 margin-t">Include
                                                 any additional information that may <br /> be relevant or helpful for visitors,
                                                 such as <br /> FAQs, pricing options, or service packages. <br /> Provide contact

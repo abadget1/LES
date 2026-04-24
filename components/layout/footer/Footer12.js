@@ -11,7 +11,7 @@ export default function Footer12() {
                                 <div className="row">
                                     <div className="col-lg-3 col-md-6">
                                         <div className="footer-all-logos">
-                                            <img src="/assets/images/logo/logo20.png" alt="" />
+                                            <img src="/assets/images/logo/logo15.png" alt="" />
                                             <p className="font-outfit font-16 lineh-26 weight-400 color opacity1 margin-t">Include
                                                 any additional information that may be relevant or helpful for visitors, such as
                                                 FAQs, pricing options, or service packages. Provide contact details.</p>

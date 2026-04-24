@@ -11,7 +11,7 @@ export default function Footer10() {
                                 <div className="row">
                                     <div className="col-lg-3">
                                         <div className="contact5-logo5-text1">
-                                            <img src="/assets/images/logo/logo16.png" alt="" />
+                                            <img src="/assets/images/logo/logo15.png" alt="" />
                                             <p className="font-ks font-16 weight-500 lineh-26 color-p10 margin-t margin-b24">Include
                                                 any additional information that may be relevant or helpful for visitors, such as
                                                 FAQs, pricing options, or service packages. Provide contact details.</p>

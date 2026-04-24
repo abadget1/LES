@@ -42,7 +42,7 @@ export default function Footer3() {
                     <div className="row section-padding12">
                         <div className="col-lg-3">
                             <div className="footer-logo-text">
-                                <img src="/assets/images/logo/logo2.png" alt="" className="margin-b" />
+                                <img src="/assets/images/logo/logo15.png" alt="" className="margin-b" />
                                 <p className="font-ks font-15 lineh-26 color-21 weight-500">Personal Tax Planning: Our tax
                                     consultants work closely with individuals to develop comprehensive tax plans tailored to
                                     their unique financial situations.</p>

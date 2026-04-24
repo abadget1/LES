@@ -13,10 +13,10 @@ export default function Welcome10() {
                                 <span className="font-ks lineh-16 weight-500 color aboutspan font-16 d-inline-block margin-b24">
                                     Secure Refund Processing for Global Investors
                                 </span>
-                                <h1 className="font-lora font-48 lineh-54 weight-600 color margin-b24" data-aos="fade-right" data-aos-duration={1000}>Your Trusted Financial Solutions Partner</h1>
+                                <h1 className="font-lora font-48 lineh-54 weight-600 color margin-b24" data-aos="fade-right" data-aos-duration={1000}>Welcome to Lanois Escrow Service!</h1>
                                 <p className="font-ks font-16 weight-500 color opacity2 lineh-26">
-                                    At Lanois Escrow Service, our mission is to deliver trust, security, and peace of mind in every transaction. We are dedicated to providing investors with a seamless, and reliable solution for managing their U.S. tax refunds—because your confidence is our highest priority.
-                                    </p>    
+                                    Welcome to Lanois Escrow Service, where we make receiving your U.S. tax refunds simple, secure, and stress-free. Tailored to meet the needs of non-U.S. investors, our trusted service ensures your refunds are delivered seamlessly and without hassle.
+                                </p>
                                 <div className="div" data-aos="fade-up" data-aos-duration={1200}>
                                     <Link href="/contact" className="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">
                                         Contact Us<span><img src="/assets/images/icons/arrowben.svg" alt="" className="ts" /></span></Link>

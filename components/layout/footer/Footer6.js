@@ -11,8 +11,8 @@ export default function Footer6() {
                                 <div className="row">
                                     <div className="col-lg-4 col-md-6">
                                         <div className="footer-3logo">
-                                            <img src="/assets/images/logo/logo9.png" alt="" />
-                                            <p className="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24">At Lanois Escrow Service, our mission is to deliver trust, security, and peace of mind in every transaction. We are dedicated to providing investors with a seamless, and reliable solution for managing their U.S. tax refunds—because your confidence is our highest priority.</p>
+                                            <img src="/assets/images/logo/LES-logo-dark.png" alt="" />
+                                            <p className="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24" style={{ textAlign: "center" }}>At Lanois Escrow Service, our mission is to deliver trust, security, and peace of mind in every transaction. We are dedicated to providing investors with a seamless, and reliable solution for managing their U.S. tax refunds—because your confidence is our highest priority.</p>
                                         </div>
                                         {/* <div className="social3-links-area list5area">
                                             <ul>
@@ -22,6 +22,9 @@ export default function Footer6() {
                                                 <li><Link href="#" className="ml1"><i className="fa-brands fa-youtube" /></Link></li>
                                             </ul>
                                         </div> */}
+                                    </div>                                   
+                                    <div className="col-lg-2 col-md-6">
+
                                     </div>
                                     <div className="col-lg-2 col-md-6">
                                         <div className="about-3-links align-items-center">
@@ -33,16 +36,6 @@ export default function Footer6() {
                                                     Services</Link></li>
                                                 <li><Link href="/contact" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Contact
                                                     Us</Link></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div className="col-lg-2 col-md-6">
-                                        <div className="about-3-links align-items-center">
-                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Legal</h1>
-                                            <ul>
-                                                <li><Link href="/#" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Privacy Policy</Link></li>
-                                                <li><Link href="/#" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">Terms & Conditions</Link></li>
-                                                <li><Link href="/#" className="font-nunito font-16 lineh-16 color-nuni weight-600 margin-t d-inline-block">FAQ</Link></li>
                                             </ul>
                                         </div>
                                     </div>

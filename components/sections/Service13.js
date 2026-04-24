@@ -31,8 +31,6 @@ export default function Service13() {
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts ">
                                     We coordinate secure property closings, ensuring accurate documentation, fund protection, and regulatory compliance throughout the transaction.
                                 </p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                         
@@ -48,8 +46,6 @@ export default function Service13() {
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">
                                     Protect acquisitions, mergers, and partnership agreements with structured fund management and milestone-based releases.
                                 </p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1200} data-aos-easing="linear">
@@ -62,8 +58,6 @@ export default function Service13() {
                                 </div>
                                 <Link href="/services" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">International Wire Transfers</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Funds are wired directly to your designated international bank account after clearance.</p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1400} data-aos-easing="linear">
@@ -76,8 +70,6 @@ export default function Service13() {
                                 </div>
                                 <Link href="/services" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Secure Fund Handling</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Professional management of funds with security and compliance measures throughout the transaction.</p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1600} data-aos-easing="linear">
@@ -92,8 +84,6 @@ export default function Service13() {
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">
                                     Simplified financial transactions between the United States and international banking systems.
                                 </p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span className="ts"><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1800} data-aos-easing="linear">
@@ -106,8 +96,6 @@ export default function Service13() {
                                 </div>
                                 <Link href="/services" className="font-lora font-24 weight-600 colorhp3 d-inline-block margin-b ts">Transaction Support & Processing Assistance</Link>
                                 <p className="font-ks font-16 weight-500 color-p10 lineh-26 margin-b24 ts">Need a specialized structure? We design escrow agreements tailored to unique transaction requirements and risk profiles.</p>
-                                <Link href="/services" className="font-16 font-ks weight-700 colorhp3 lineh-16 ts">Learn More
-                                    <span className="ts"><img src="/assets/images/icons/arrowben2.svg" alt="" className="ts" /></span></Link>
                             </div>
                         </div>
                     </div>

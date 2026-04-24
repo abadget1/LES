@@ -10,13 +10,13 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="col-12">
                                 <div className="header-elements">
                                     <div className="site-logo">
-                                        <Link href="/"><img src="/assets/images/logo/logo15.png" alt="" /></Link>
+                                        <Link href="/"><img src="/assets/images/logo/LES-logo-light.png" alt="" /></Link>
                                     </div>
                                     <div className="main-menu-ex  homepage10 homepage7 ">
                                         <ul>
-                                            <li><Link href="/" className="font-ks font-16 weight-500 color">Home</Link></li>
+                                            {/* <li><Link href="/" className="font-ks font-16 weight-500 color">Home</Link></li>
                                             <li><Link href="/about" className="font-ks font-16 weight-500 color">About Us</Link></li>
-                                            <li><Link href="/services" className="font-ks font-16 weight-500 color">Services</Link></li>
+                                            <li><Link href="/services" className="font-ks font-16 weight-500 color">Services</Link></li> */}
                                             {/* <li><Link href="#" className="font-ks font-16 weight-500 color">Our Services <span><i className="fa-solid fa-angle-down" /></span></Link>
                                                 <ul className="dropdown-padding">
                                                     <li><Link href="#" className="font-ks font-16 weight-500 color">Our
@@ -39,7 +39,7 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu }) {
                                                     </li>
                                                 </ul>
                                             </li>         */}
-                                            <li><Link href="/contact" className="font-ks font-16 weight-500 color">Contact</Link></li>                                    
+                                            {/* <li><Link href="/contact" className="font-ks font-16 weight-500 color">Contact</Link></li>                                     */}
                                             {/* <li className="mega-dropdawn"><Link href="#">Home <i className="fa-solid fa-angle-down" /></Link>
                                                 <ul className="mega-dropdawn-ul backgroudnone">
                                                     <div className="mega-menu-all">

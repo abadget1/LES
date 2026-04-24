@@ -12242,6 +12242,16 @@ img.elementors8 {
   top: 0;
   left: 0;
 }
+.site-logo img {
+  max-height: 60px;
+  width: auto;
+  display: block;
+}
+.footer-3logo img {
+  max-height: 105px;
+  width: auto;
+  display: block;
+}
 .cta-contact6 form {
   border-radius: 4px;
   background: #F4F4F4;

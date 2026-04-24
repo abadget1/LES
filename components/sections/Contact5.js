@@ -12,7 +12,7 @@ export default function Contact5() {
                             <div className="contact6-alltextar">
                                 <span className="trusts font-16 lineh-16 font-nunito weight-600 color-h5 d-inline-block">Contact
                                     Us</span>
-                                <h1 className="font-lora font-44 lineh-52 weight-600 colorwel margin-b" data-aos="fade-right" data-aos-duration={1200}>Contact us now for a free consulation for today.</h1>
+                                <h1 className="font-lora font-44 lineh-52 weight-600 colorwel margin-b" data-aos="fade-right" data-aos-duration={1200}>Contact Us</h1>
                                 <p className="font-nunito font-16 lineh-26 weight-500 color-nuni margin-b24">We believe that
                                     informed clients make better financial decisions. As part of <br /> our service, we'll provide
                                     educational resources and workshops to help.</p>

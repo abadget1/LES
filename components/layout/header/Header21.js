@@ -10,7 +10,7 @@ export default function Header21({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="col-12">
                                 <div className="header-elements">
                                     <div className="site-logo">
-                                        <Link href="/index1"><img src="/assets/images/logo/logo14.png" alt="" /></Link>
+                                        <Link href="/index1"><img src="/assets/images/logo/logo15.png" alt="" /></Link>
                                     </div>
                                     <div className="main-menu-ex homepage5 homepage9">
                                         <ul>

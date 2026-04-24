@@ -11,7 +11,7 @@ export default function Footer4() {
                                 <div className="row">
                                     <div className="col-lg-3">
                                         <div className="footer-3logo">
-                                            <img src="/assets/images/logo/logo6.png" alt="" />
+                                            <img src="/assets/images/logo/logo15.png" alt="" />
                                             <p className="font-nunito font-16 lineh-26 color-26 margin-t margin-b24">Include any
                                                 additional information that may be relevant or helpful for visitors, such as
                                                 FAQs, pricing options, or service packages. Provide contact details.</p>
