@@ -24,8 +24,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                 <div className="container-fluid">
                     <div className="col-12">
                         <div className="mobile-header-elements">
-                            <div className="mobile-logo">
-                                <Link href="/"><img src="/assets/images/logo/logo15.png" alt="" /></Link>
+                            <div className="site-logo">
+                                <Link href="/"><img src="/assets/images/logo/LES-logo-light.png" alt="" /></Link>
                             </div>
                             <div className="mobile-nav-icon dots-menu" onClick={handleMobileMenu}>
                                 <i className="fa-solid fa-bars" />
@@ -37,14 +37,14 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
             <div className={`mobile-sidebar ${isMobileMenu ? "mobile-menu-active" : ""}`}>
                 <div className="logoicons-area">
                     <div className="logos">
-                        <img src="/assets/images/logo/logo15.png" alt="" />
+                        <img src="/assets/images/logo/LES-logo-light.png" alt="" />
                     </div>
                     <div className="menu-close" onClick={handleMobileMenu}>
                         <i className="fa-solid fa-xmark" />
                     </div>
                 </div>
                 <div className="mobile-nav">
-                    <ul className="mobile-nav-list">
+                    {/* <ul className="mobile-nav-list">
                         <li className="has-sub hash-has-sub">
                             <Link href="/" className="font-ks font-18 weight-600 color">Home</Link>
                         </li>
@@ -58,9 +58,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                             <Link href="/contact" className="font-ks font-18 weight-600 color">Contact Us</Link>
                         </li>
 
-                    </ul>
+                    </ul> */}
                     <div className="allmobilesection">
-                        <Link href="/contact" className="font-ks font-18 lineh-18 weight-700 color mobilemenubtn">Get Started</Link>
                         <div className="single-footer single-footer-menu single-footer4">
                             <h3 className="font-ks font-24 lineh-24 weight-600 color margin-b margin-t24">Contact Info</h3>
                             <div className="footer4-contact-info">
