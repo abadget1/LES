@@ -17,11 +17,10 @@ export default function Home() {
             <Layout headerStyle={10} footerStyle={6}>
                 <Welcome10 />
                 <About10 />
-                <Service14 />
-                <Client6 />
+                <Cta10 />
+                {/* <Service14 /> */}
                 <Service13 />
                 <Contact5 />
-                {/* <Cta10 /> */}
             </Layout>
         </>
     )

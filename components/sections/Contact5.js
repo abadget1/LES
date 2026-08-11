@@ -69,7 +69,7 @@ export default function Contact5() {
                                 <img src="/assets/images/sectionimg/contact5-img.jpg" alt="" />
                             </div>
                         </div>
-                        <div className="col-lg-12">
+                        {/* <div className="col-lg-12">
                             <div className="contactbottonarea">
                                 <div className="row">
                                     <div className="col-lg-4" data-aos="zoom-in" data-aos-duration={1200}>
@@ -114,7 +114,7 @@ export default function Contact5() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
