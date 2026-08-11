@@ -8,7 +8,7 @@ export default function Welcome10() {
             <div className="welcome10-section-area">
                 <div className="container">
                     <div className="row align-items-center">
-                        <div className="col-lg-6">
+                        <div className="col-lg-9 col-md-12 col-sm-12" >
                             <div className="header10-textarea" data-aos="zoom-out" data-aos-duration={1000}>
                                 <span className="font-ks lineh-16 weight-500 color aboutspan font-16 d-inline-block margin-b24">
                                     Secure Refund Processing for Global Investors
@@ -24,8 +24,8 @@ export default function Welcome10() {
                             </div>
                         </div>
                         <div className="col-lg-1" />
-                        <div className="col-lg-5">
-                            <div className="welcome-bgarea" data-aos="zoom-in" data-aos-duration={1000}>
+                        <div className="col-md-10">
+                            {/* <div className="welcome-bgarea" data-aos="zoom-in" data-aos-duration={1000}>
                                 <div className="welcome-ellips" data-aos="zoom-out" data-aos-duration={1200}>
                                     <img src="/assets/images/background/homepagewelbg.png" alt="" className="homewelbg keyframe3" />
                                     <div className="elips-icon">
@@ -64,7 +64,7 @@ export default function Welcome10() {
                                         <img src="/assets/images/elementor/elementor61.png" alt="" className="elementor60 keyframe3" />
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

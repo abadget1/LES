@@ -8,7 +8,7 @@ export default function Footer6() {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="footer4-all-area footer6 section-padding15">
-                                <div className="row">
+                                {/* <div className="row">
                                     <div className="col-lg-4 col-md-6">
                                         <div className="footer-3logo">
                                             <img src="/assets/images/logo/LES-logo-dark.png" alt="" />
@@ -23,10 +23,10 @@ export default function Footer6() {
                                             </ul>
                                         </div> */}
                                     </div>                                   
-                                    <div className="col-lg-2 col-md-6">
+                                    <div className="col-lg-4 col-md-6">
 
                                     </div>
-                                    <div className="col-lg-2 col-md-6">
+                                    {/* <div className="col-lg-2 col-md-6">
                                         <div className="about-3-links align-items-center">
                                             <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Quick Links</h1>
                                             <ul>
@@ -65,18 +65,16 @@ export default function Footer6() {
                                         </div>
                                     </div>
 
-                                </div>
-                            </div>
+                                </div> */} 
+                            {/* </div> */}
                             <div className="border7" />
                             <div className="copyright4 text-center">
-                                <p className="font-16 font-nunito color-28 weight-500 ">Copyright {new Date().getFullYear()} © Consalt Finance Consultant,
-                                    Designed by Fleexstudio</p>
+                                <p className="font-16 font-nunito color-28 weight-500 ">Copyright {new Date().getFullYear()} © Designed by ABCode.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <img src="/assets/images/elementor/elementor41.png" alt="" className="elementor-1" />
-                <img src="/assets/images/elementor/elementor42.png" alt="" className="elementors8" />
             </div>
 
         </>
