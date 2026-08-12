@@ -23,7 +23,7 @@ export default function Footer6() {
                                             </ul>
                                         </div> */}
                                     </div>                                   
-                                    <div className="col-lg-3 col-md-1">
+                                    <div className="col-lg-3 col-md-3">
 
                                     </div>
                                     {/* <div className="col-lg-2 col-md-6">
@@ -39,9 +39,9 @@ export default function Footer6() {
                                             </ul>
                                         </div>
                                     </div> */}
-                                    <div className="col-lg-3 col-md-6">
+                                    <div className="col-lg-4 col-md-6">
                                         <div className="contcat4-footer">
-                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Get In Touch
+                                            <h1 className="font-20 lineh-20 font-lora weight-600 color-ni">Contact
                                             </h1>
                                             <div className="location-icon4 margin-t32">
                                                 <div className="image5">
