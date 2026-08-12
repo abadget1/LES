@@ -20,7 +20,7 @@ export default function Home() {
                 <Cta10 />
                 {/* <Service14 /> */}
                 <Service13 />
-                <Contact5 />
+                {/* <Contact5 /> */}
             </Layout>
         </>
     )
